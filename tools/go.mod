@@ -1,4 +1,4 @@
-module github.com/golang-templates/seed/build
+module github.com/clbiggs/workload-restarter/build
 
 go 1.23.0
 
